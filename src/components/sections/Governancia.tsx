@@ -4,7 +4,7 @@ import { bodyTextSize, sectionTitleSize } from "@/lib/typography";
 import { SectionBadge } from "../subComponents/Badge";
 import { InfoCard } from "../subComponents/Cards";
 
-export function Governanca() {
+export function Governancia() {
   return (
     <section
       id="governancia"
@@ -35,7 +35,7 @@ export function Governanca() {
             key={card.title}
             title={card.title}
             description={card.description}
-            variant="surface"
+            variant="primary"
           />
         ))}
       </div>

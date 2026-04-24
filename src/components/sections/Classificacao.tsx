@@ -28,7 +28,7 @@ export function Classificacao() {
         </Text>
       </div>
 
-      <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-12 lg:gap-6">
+      <div className="mx-auto grid w-full max-w-[1000px] grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-6 lg:gap-6">
         {classificationCards.map((card) => (
           <div key={card.title} className={`h-full ${card.className}`}>
             <InfoCard

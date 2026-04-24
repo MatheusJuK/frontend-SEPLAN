@@ -23,8 +23,9 @@ export function InfoCard({
       shadow="xs"
       radius={12}
       px={20}
-      py={20}
+      py={40}
       className={className}
+      maw={520}
     >
       <Text c={palette.title} fw={700} fz={cardTitleSize}>
         {title}

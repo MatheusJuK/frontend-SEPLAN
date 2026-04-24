@@ -78,35 +78,35 @@ export const classificationCards = [
     description:
       "Projetos de caráter transformador, com alta contribuição para o desenvolvimento do Estado. Exigem uma avaliação prévia mais completa e extensiva.",
     variant: "beige" as CardVariant,
-    className: "lg:col-span-4",
+    className: "lg:col-span-2",
   },
   {
     title: "Complementares",
     description:
       "Empreendimentos de natureza tático-operacional e impacto localizado. A análise de viabilidade é simplificada, dependendo do volume de investimento.",
     variant: "primary" as CardVariant,
-    className: "lg:col-span-4",
+    className: "lg:col-span-2",
   },
   {
     title: "Parcerias e Concessões",
     description:
       "Projetos que envolvem a iniciativa privada e seguem um fluxo normativo específico, já previsto em legislação própria.",
     variant: "white" as CardVariant,
-    className: "lg:col-span-4",
+    className: "lg:col-span-2",
   },
   {
     title: "Emergenciais",
     description:
       "Projetos urgentes devido a situações como calamidades públicas. Demandam celeridade e seguem um rito sumário, sem passar por todas as etapas da GIP.",
     variant: "yellow" as CardVariant,
-    className: "lg:col-span-6 lg:col-start-1",
+    className: "lg:col-span-3",
   },
   {
     title: "Pactos e Convênios",
     description:
       "Projetos urgentes devido a situações como calamidades públicas. Demandam celeridade e seguem um rito sumário, sem passar por todas as etapas da GIP.",
     variant: "yellow" as CardVariant,
-    className: "md:col-span-full lg:col-span-6 lg:col-start-7",
+    className: "md:col-span-1 lg:col-span-3",
   },
 ];
 
