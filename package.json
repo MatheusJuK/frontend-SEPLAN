@@ -13,9 +13,9 @@
     "@mantine/core": "^7.17.8",
     "@mantine/hooks": "^7.17.8",
     "lucide-react": "^0.542.0",
-    "next": "15.5.2",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "next": "16.2.4",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.2.0",
